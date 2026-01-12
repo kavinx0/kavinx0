@@ -22,7 +22,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ## 🛠 Skills & Tech Stack
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=blue)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp;
