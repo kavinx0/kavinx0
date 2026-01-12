@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there Hi, I'm Kavin👋
 
-<!--
-**kavinx0/kavinx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from the University of Birmingham, currently based in Malaysia 🇲🇾.
+I focus on building data-driven and system-oriented projects that reflect real-world use cases and professional engineering standards.
 
-Here are some ideas to get you started:
+This GitHub serves as a professional portfolio for work developed beyond academic coursework.
+It documents my learning, showcases practical skills, and highlights structured, well-documented projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Why This GitHub
+
+- Build and showcase professional, real-world projects
+- Practice clean code, structure, and documentation
+- Maintain a public record of technical growth
+- Support applications for data, systems, and technical roles
