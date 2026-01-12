@@ -3,8 +3,9 @@
 I'm a Computer Science graduate from the University of Birmingham, currently based in Malaysia 🇲🇾.
 I focus on building data-driven and system-oriented projects that reflect real-world use cases and professional engineering standards.
 
-This GitHub serves as a professional portfolio for work developed beyond academic coursework.
+This GitHub serves as a professional portfolio for work developed beyond academic coursework. 
 It documents my learning, showcases practical skills, and highlights structured, well-documented projects.
+Just a little disclaimer, these projects are of my own personal undertaking and I will not be enlisting the help of any AI or copying any established projects. 
 
 <br>
 
