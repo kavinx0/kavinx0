@@ -84,7 +84,15 @@ Projects listed below are planned and in progres:
 <br>
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR_USERNAME)
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" />
+</a>
 
