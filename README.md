@@ -22,7 +22,8 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ## 🛠 Skills & Tech Stack
 ### Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,cpp,sql,php)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) &nbsp;
