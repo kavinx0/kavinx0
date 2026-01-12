@@ -22,7 +22,13 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ## 🛠 Skills & Tech Stack
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp;
