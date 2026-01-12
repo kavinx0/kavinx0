@@ -1,4 +1,4 @@
-# Hi there Hi, I'm Kavin👋
+# Hi, I'm Kavin👋
 
 I'm a Computer Science graduate from the University of Birmingham, currently based in Malaysia 🇲🇾.
 I focus on building data-driven and system-oriented projects that reflect real-world use cases and professional engineering standards.
@@ -14,6 +14,8 @@ It documents my learning, showcases practical skills, and highlights structured,
 - Practice clean code, structure, and documentation
 - Maintain a public record of technical growth
 - Support applications for data, systems, and technical roles
+
+<br>
 
 ## 🛠 Skills & Tech Stack
 Programming Languages
@@ -43,6 +45,7 @@ Developer Tools & Platforms
 
 
 
+<br>
 
 ## 📂 Project Portfolio
 
@@ -64,5 +67,7 @@ System Monitoring & Metrics Dashboard (coming soon)
 API Performance & Reliability Testing (coming soon)
 
 System Validation & Logging Toolkit (coming soon)
+
+<br>
 
 ## 📫 Contact
