@@ -68,7 +68,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 
 ## 📂 Project Portfolio
 
-Each repository will include a clear problem statement, approach, and documentation
+Each repository will include a clear problem statement, approach, and documentation. 
 Projects listed below are planned and in progres:
 
 ### 📊 Data Analysis Projects
@@ -88,14 +88,5 @@ API Performance & Reliability Testing (coming soon)
 System Validation & Logging Toolkit (coming soon)
 
 <br>
-
-## 📜 Certifications & Professional Development
-
-![Cisco](https://img.shields.io/badge/-000000?style=flat-square&logo=cisco&logoColor=white) Cisco networking basicas
-
-![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Basics-000000?style=flat-square&logo=cisco&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-000000?style=flat-square&logo=microsoftazure&logoColor=0089D6)
-![Java](https://img.shields.io/badge/Java%20Foundations%20Junior%20Associate-000000?style=flat-square&logo=openjdk&logoColor=white)
-![English](https://img.shields.io/badge/EF%20SET%20English%20C2-000000?style=flat-square&logo=googletranslate&logoColor=white)
 
 ## 📫 Contact
