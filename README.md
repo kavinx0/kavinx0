@@ -68,7 +68,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 
 ## 📂 Project Portfolio
 
-Each repository will include a clear problem statement, approach, and documentation. 
+Each repository will include a clear problem statement, approach, and documentation.
 Projects listed below are planned and in progres:
 
 ### 📊 Data Analysis Projects
