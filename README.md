@@ -19,7 +19,22 @@ It documents my learning, showcases practical skills, and highlights structured,
 
 ## 🛠 Skills & Tech Stack
 Programming Languages
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+md
+Copy code
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+md
+Copy code
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+md
+Copy code
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+md
+Copy code
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+md
+Copy code
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 
 
@@ -49,8 +64,8 @@ Developer Tools & Platforms
 
 ## 📂 Project Portfolio
 
-Projects listed below are planned and in progress.
-Each repository will include a clear problem statement, approach, and documentation.
+Each repository will include a clear problem statement, approach, and documentation
+Projects listed below are planned and in progres:
 
 ### 📊 Data Analysis Projects
 
