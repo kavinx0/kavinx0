@@ -89,4 +89,11 @@ System Validation & Logging Toolkit (coming soon)
 
 <br>
 
+## 📜 Certifications & Professional Development
+
+![Cisco](https://img.shields.io/badge/Cisco%20Networking%20Basics-000000?style=flat-square&logo=cisco&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-000000?style=flat-square&logo=microsoftazure&logoColor=0089D6)
+![Java](https://img.shields.io/badge/Java%20Foundations%20Junior%20Associate-000000?style=flat-square&logo=openjdk&logoColor=white)
+![English](https://img.shields.io/badge/EF%20SET%20English%20C2-000000?style=flat-square&logo=googletranslate&logoColor=white)
+
 ## 📫 Contact
