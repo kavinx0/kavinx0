@@ -72,20 +72,14 @@ Each repository will include a clear problem statement, approach, and documentat
 Projects listed below are planned and in progres:
 
 ### 📊 Data Analysis Projects
-
-Operational KPI Analysis (coming soon)
-
-Dataset Exploration & Insights (coming soon)
-
-Data Quality & Validation Study (coming soon)
+- Operational KPI Analysis (coming soon)
+- Dataset Exploration & Insights (coming soon)
+- Data Quality & Validation Study (coming soon)
 
 ### ⚙️ Systems & Engineering Projects
-
-System Monitoring & Metrics Dashboard (coming soon)
-
-API Performance & Reliability Testing (coming soon)
-
-System Validation & Logging Toolkit (coming soon)
+- System Monitoring & Metrics Dashboard (coming soon)
+- API Performance & Reliability Testing (coming soon)
+- System Validation & Logging Toolkit (coming soon)
 
 <br>
 
