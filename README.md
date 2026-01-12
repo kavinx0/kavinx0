@@ -31,6 +31,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) &nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+---
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) &nbsp;
@@ -39,6 +40,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 ### Data & Platforms
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) &nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) &nbsp;
