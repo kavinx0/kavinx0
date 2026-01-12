@@ -20,7 +20,8 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 <br>
 
 ## 🛠 Skills & Tech Stack
-Programming Languages: &nbsp;
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp;
