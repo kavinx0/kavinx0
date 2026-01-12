@@ -8,7 +8,7 @@ It documents my learning, showcases practical skills, and highlights structured,
 Just a little disclaimer, these projects are of my own personal undertaking and I will not be enlisting the help of any AI or copying any established projects. 
 
 > "My heart and actions are utterly unclouded. They are all those of justice." – F.V.
-
+---
 ## 🧭 Why This Git
 
 - Build and showcase professional, real-world projects
@@ -17,9 +17,8 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 - Support applications for data, systems, and technical roles
 - Establish a professional public presence that gives employers confidence in my technical approach and consistency
 
-
-## 🛠 Skills & Tech Stack
 ---
+## 🛠 Skills & Tech Stack
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) &nbsp;
@@ -82,5 +81,5 @@ Projects listed below are planned and in progres:
 - System Monitoring & Metrics Dashboard (coming soon)
 - API Performance & Reliability Testing (coming soon)
 - System Validation & Logging Toolkit (coming soon)
-
+---
 
