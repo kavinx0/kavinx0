@@ -19,6 +19,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 
 
 ## 🛠 Skills & Tech Stack
+---
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) &nbsp;
@@ -65,6 +66,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) &nbsp;
 ![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
+---
 
 ## 📂 Project Portfolio
 
