@@ -29,8 +29,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) &nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
-
 ### Frameworks & Backend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) &nbsp;
@@ -42,7 +40,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) &nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
----
 
 ### Data & Libraries
 
@@ -50,7 +47,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) &nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
----
 
 ### Databases
 
@@ -59,7 +55,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) &nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000000)
 
----
 
 ### Developer Tools & Platforms
 
