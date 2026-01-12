@@ -33,6 +33,14 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 
 ### Frameworks & Backend
 
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=DD0031)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F)
 
 ### Data & Libraries
 
