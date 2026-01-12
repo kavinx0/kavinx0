@@ -71,12 +71,12 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 Each repository will include a clear problem statement, approach, and documentation.  
 Projects listed below are planned and in progres:
 
-### 📊 Data Analysis Projects
+### 📊 Analytical & Data-Driven Projects
 - Operational KPI Analysis (coming soon)
 - Dataset Exploration & Insights (coming soon)
 - Data Quality & Validation Study (coming soon)
 
-### ⚙️ Systems & Engineering Projects
+### ⚙️ Systems-Oriented Projects
 - System Monitoring & Metrics Dashboard (coming soon)
 - API Performance & Reliability Testing (coming soon)
 - System Validation & Logging Toolkit (coming soon)
@@ -84,3 +84,7 @@ Projects listed below are planned and in progres:
 <br>
 
 ## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@gmail.com)
+[![Instagram](https://img.shields.io/badge/-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR_USERNAME)
+
