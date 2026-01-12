@@ -14,3 +14,55 @@ It documents my learning, showcases practical skills, and highlights structured,
 - Practice clean code, structure, and documentation
 - Maintain a public record of technical growth
 - Support applications for data, systems, and technical roles
+
+## 🛠 Skills & Tech Stack
+Programming Languages
+
+
+
+
+
+Frameworks & Backend
+
+
+
+
+
+Data & Libraries
+
+
+
+
+Databases
+
+
+
+
+Developer Tools & Platforms
+
+
+
+
+
+## 📂 Project Portfolio
+
+Projects listed below are planned and in progress.
+Each repository will include a clear problem statement, approach, and documentation.
+
+### 📊 Data Analysis Projects
+
+Operational KPI Analysis (coming soon)
+
+Dataset Exploration & Insights (coming soon)
+
+Data Quality & Validation Study (coming soon)
+
+### ⚙️ Systems & Engineering Projects
+
+System Monitoring & Metrics Dashboard (coming soon)
+
+API Performance & Reliability Testing (coming soon)
+
+System Validation & Logging Toolkit (coming soon)
+
+## 📫 Contact
