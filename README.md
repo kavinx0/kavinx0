@@ -7,7 +7,6 @@ This GitHub serves as a professional portfolio for work developed beyond academi
 It documents my learning, showcases practical skills, and highlights structured, well-documented projects.
 Just a little disclaimer, these projects are of my own personal undertaking and I will not be enlisting the help of any AI or copying any established projects. 
 
-<br>
 
 ## 🧭 Why This Git
 
@@ -17,7 +16,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 - Support applications for data, systems, and technical roles
 - Establish a professional public presence that gives employers confidence in my technical approach and consistency
 
-<br>
 
 ## 🛠 Skills & Tech Stack
 ### Programming Languages
@@ -31,10 +29,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-
-
 ### Frameworks & Backend
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -45,7 +39,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 
 ### Data & Libraries
 
@@ -60,7 +53,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-
 ### Developer Tools & Platforms
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -70,8 +62,6 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-
-<br>
 
 ## 📂 Project Portfolio
 
@@ -88,7 +78,6 @@ Projects listed below are planned and in progres:
 - API Performance & Reliability Testing (coming soon)
 - System Validation & Logging Toolkit (coming soon)
 
-<br>
 
 ## 📫 Contact
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
