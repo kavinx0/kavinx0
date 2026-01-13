@@ -7,10 +7,7 @@ This GitHub serves as a professional portfolio for work developed beyond academi
 It documents my learning, showcases practical skills, and highlights structured, well-documented projects.
 Just a little disclaimer, these projects are of my own personal undertaking and I will not be enlisting the help of any AI or copying any established projects. 
 
-> "My heart and actions are utterly unclouded. They are all those of justice." – F.V.
-
-
-## 🧭 Why This Git
+## 🎯 Portfolio Objectives
 
 - Build and showcase professional, real-world projects
 - Practice clean code, structure, and documentation
@@ -58,3 +55,5 @@ Click the links below to view the full project portfolios.
 
 ### 🌐 Systems & Network Portfolio ([view repository](https://github.com/kavinx0/systems-network-portfolio))
 - Projects in planning and development
+
+> "My heart and actions are utterly unclouded. They are all those of justice." – F.V.
