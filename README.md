@@ -50,12 +50,12 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 Each repository will include a clear problem statement, approach, and documentation.  
 Projects listed below are planned and in progres:
 
-### 📊 Analytical & Data-Driven Projects
-- Operational KPI Analysis (coming soon)
-- Dataset Exploration & Insights (coming soon)
-- Data Quality & Validation Study (coming soon)
+### 📊 Data Analytics Portfolio
+- TBA
+- TBA
+- TBA
 
-### ⚙️ Systems-Oriented Projects
-- System Monitoring & Metrics Dashboard (coming soon)
-- API Performance & Reliability Testing (coming soon)
-- System Validation & Logging Toolkit (coming soon)
+### ⚙️ Systems Network Portfolio
+- TBA
+- TBA
+- TBA
