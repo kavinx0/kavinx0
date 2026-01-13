@@ -58,6 +58,4 @@ Click the links below to view the full project portfolios.
 
 <br>
 
----
-
 > "*My heart and actions are utterly unclouded. They are all those of justice.*" – F.V.
