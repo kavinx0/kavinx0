@@ -45,13 +45,15 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000) &nbsp;
 ![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
+---
+
 ## 📂 Project Portfolio
 
 Each repository will include a clear problem statement, approach, and documentation.  
-Projects listed below are planned and in progres:
+You can click the hyperlink below to view the full project list in my portfolios:
 
-### 📊 Data Analytics Portfolio
-- TBA
+### 📊 Data Analytics Portfolio [here](https://github.com/kavinx0/data-analytics-portfolio)
+- Customer Purchase & Retention Analysis
 - TBA
 - TBA
 
