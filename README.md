@@ -49,15 +49,12 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 
 ## 📂 Project Portfolio
 
-Each repository will include a clear problem statement, approach, and documentation.  
-You can click the hyperlink below to view the full project list in my portfolios:
+Each repository includes a clear problem statement, analytical approach, and supporting documentation.  
+Click the links below to view the full project portfolios.
 
-### 📊 Data Analytics Portfolio -> [here](https://github.com/kavinx0/data-analytics-portfolio)
+### 📊 Data Analytics Portfolio ([view repository](https://github.com/kavinx0/data-analytics-portfolio))
 - Customer Purchase & Retention Analysis
-- TBA
-- TBA
+- Additional projects in progress
 
-### ⚙️ Systems Network Portfolio
-- TBA
-- TBA
-- TBA
+### 🌐 Systems & Network Portfolio ([view repository](https://github.com/kavinx0/systems-network-portfolio))
+- Projects in planning and development
