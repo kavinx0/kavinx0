@@ -52,7 +52,7 @@ Just a little disclaimer, these projects are of my own personal undertaking and 
 Each repository will include a clear problem statement, approach, and documentation.  
 You can click the hyperlink below to view the full project list in my portfolios:
 
-### 📊 Data Analytics Portfolio [here](https://github.com/kavinx0/data-analytics-portfolio)
+### 📊 Data Analytics Portfolio -> [here](https://github.com/kavinx0/data-analytics-portfolio)
 - Customer Purchase & Retention Analysis
 - TBA
 - TBA
