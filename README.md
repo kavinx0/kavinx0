@@ -57,5 +57,7 @@ Click the links below to view the full project portfolios.
 - Projects in planning and development
 
 <br>
+
 ---
+
 > "*My heart and actions are utterly unclouded. They are all those of justice.*" – F.V.
