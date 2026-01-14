@@ -1,6 +1,6 @@
 # Hi, I'm Kavin👋
 
-I'm a Computer Science graduate from the University of Birmingham, currently based in Malaysia 🇲🇾.
+I'm a Computer Science graduate from the University of Birmingham, currently based in Malaysia.
 I focus on building data-driven and system-oriented projects that reflect real-world use cases and professional engineering standards.
 
 This GitHub serves as a professional portfolio for work developed beyond academic coursework. 
