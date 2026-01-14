@@ -7,14 +7,6 @@ This GitHub serves as a professional portfolio for work developed beyond academi
 It documents my learning, showcases practical skills, and highlights structured, well-documented projects.
 Just a little disclaimer, these projects are of my own personal undertaking and I will not be enlisting the help of any AI or copying any established projects. 
 
-## 🎯 Portfolio Objectives
-
-- Build and showcase professional, real-world projects
-- Practice clean code, structure, and documentation
-- Maintain a public record of technical growth
-- Support applications for data, systems, and technical roles
-- Establish a professional public presence that gives employers confidence in my technical approach and consistency  
-
 
 ## 🛠 Skills & Tech Stack
 ### Languages
