@@ -45,6 +45,9 @@ Click the links below to view the full project portfolios.
 - Customer Purchase & Retention Analysis
 - Additional projects in progress
 
+### 📈 Financial Modelling & Market Analysis Portfolio ([view repository](https://github.com/kavinx0/financial-modelling-portfolio))
+- Hermes: Prediction market trading bot for Polymarket
+
 ### 🌐 Systems & Network Portfolio ([view repository](https://github.com/kavinx0/systems-network-portfolio))
 - Projects in planning and development
 
