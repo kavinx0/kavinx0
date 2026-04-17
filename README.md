@@ -53,4 +53,4 @@ Click the links below to view the full project portfolios.
 
 <br>
 
-> "*Impossible is a word to be found only in the dictionary of fools.*" – F.V.
+> "*Impossible is a word to be found only in the dictionary of fools.*" – Napoleon
